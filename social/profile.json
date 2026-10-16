@@ -1,9 +1,9 @@
 {
-  "publicKey": "ed25519:040e242f933da1d8353457442b7c2014887a37a5d0dbc9102b252b8945d50114",
+  "publicKey": "ed25519:058f010c633f878f4fe8d325eebb24ef8b1858de0b8d8516c038212bdd67888d",
   "handle": "case3-target.social",
   "repoURL": "https://github.com/gargster/case3-target-social.git",
-  "displayName": "Case 3 Target",
-  "bio": "Temporary security demonstration",
-  "created": "2026-10-15T22:54:39.688635Z",
-  "signature": "+Hz32KyP+ipycyiUAs8lbnQ6Sli+XVjuC18rzGBr5SKqm9COZXYUFaK7qz8WGtD6P8dYRTEF2XcxeVq0il94Cw=="
+  "displayName": "Case 3 Replacement",
+  "bio": "Replacement profile for security demonstration",
+  "created": "2026-10-16T00:00:00Z",
+  "signature": "g52w16eAVHyz6uEC7PW6MaiB0DZoi6RNYXHi7/AiqWSNje3b2RsocwIp3Szk+x25HNVVrWwMsJCGwWMNcpYNCg=="
 }
